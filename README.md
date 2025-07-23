@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/classes-e-metodos-genericos-em-delphi/
+  https://www.codedelphi.com/2024/10/classes-e-metodos-genericos-em-delphi.html
